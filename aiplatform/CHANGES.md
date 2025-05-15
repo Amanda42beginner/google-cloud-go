@@ -1,6 +1,14 @@
 # Changes
 
 
+## [1.88.0](https://github.com/googleapis/google-cloud-go/compare/aiplatform/v1.87.0...aiplatform/v1.88.0) (2025-05-15)
+
+
+### Features
+
+* **aiplatform:** Add checkpoint ID to endpoint proto ([d863442](https://github.com/googleapis/google-cloud-go/commit/d863442bc040d09b370aecc40792631df479b1fe))
+* **aiplatform:** Add checkpoint ID to endpoint proto ([#12282](https://github.com/googleapis/google-cloud-go/issues/12282)) ([70c11ad](https://github.com/googleapis/google-cloud-go/commit/70c11ad152a463a268421050e3395017f6335090))
+
 ## [1.87.0](https://github.com/googleapis/google-cloud-go/compare/aiplatform/v1.86.0...aiplatform/v1.87.0) (2025-05-13)
 
 
